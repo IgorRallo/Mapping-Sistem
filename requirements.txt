@@ -1,0 +1,8 @@
+opencv-python
+opencv-contrib-python
+numpy
+torch
+torchvision
+matplotlib
+PyQt5
+imutils
